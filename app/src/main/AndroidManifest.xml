@@ -40,7 +40,7 @@
         </activity>
 
 <!--        Branch Init-->
-        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_hbS4DjDkvyKHXO02b7nPeddnvraqH0Rq" />
+        <meta-data android:name="io.branch.sdk.BranchKey" android:value="key_live_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" /> //put in your key
         <meta-data android:name="io.branch.sdk.TestMode" android:value="false" />
         <meta-data
             android:name="preloaded_fonts"
