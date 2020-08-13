@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Branch Referral</string>
+    <string name="refer_and_share_your_experience_with_everyone">Refer and share your experience with everyone</string>
+    <string name="copy_referral_link">Share referral link</string>
+    <string name="invite">Refer</string>
+    <string name="todo">TODO</string>
+    <string name="xcy0pp">XCY0PP</string>
+    <string name="your_referral_code">Your referral code</string>
+    <string name="you_were_invited_by_diaz">You are invited</string>
+    <string name="branch_key">key_live_hbS4DjDkvyKHXO02b7nPeddnvraqH0Rq</string>
+    <string name="branch_secret">secret_live_Fwfa7AsK1NcfqRAdK9Ak2BGOK2vI0VIy</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="x">X</string>
+    <string name="application">MyApplication</string>
+    <string name="sorry_something_went_wrong">Sorry!!! Something went wrong</string>
+    <string name="branch">Branch</string>
+</resources>
